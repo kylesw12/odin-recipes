@@ -1,5 +1,5 @@
 * {
-    outline: 2px solid red;
+    /* outline: 2px solid red; */
 }
 
 body {
@@ -23,9 +23,8 @@ ul {
 li {
     font-size: 20px;
     font-family: "Brush Script MT", sans-serif;
-    align-items: center;
     text-align: center;
-
+    
 }
 
 img {

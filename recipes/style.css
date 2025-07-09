@@ -1,0 +1,29 @@
+* {
+    /* outline: 2px solid red; */
+}
+
+body {
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #FFFDD0;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h3 {
+    font-size: 25px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p, li {
+    font-size: 18px;
+    font-family: "Brush Script MT", sans-serif;
+}
